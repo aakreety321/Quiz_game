@@ -6,7 +6,7 @@ questions = [
     {
         "question": "What is the output of 21 + 2?",
         "options": ["a) 3", "b) 4", "c) 23", "d) 22"],
-        "answer": "b"
+        "answer": "c"
     },
     {
         "question": "Which one is a programming language?",
